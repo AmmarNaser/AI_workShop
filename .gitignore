@@ -8,10 +8,10 @@ myenv/lib
 
 myenv/bin/
 
-/myenv/pyvenv.cfg
+myenv/pyvenv.cfg
 
-/myenv/liveFaceRecognition/prepro_my2.jpg
+myenv/liveFaceRecognition/prepro_my2.jpg
 
-/myenv/liveFaceRecognition/imgs.pngmyenv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib
+myenv/liveFaceRecognition/imgs.pngmyenv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib
 
 AIWorkshop/myenv/CNN/fashion-mnist/data/fashion/mnist_train.csv
