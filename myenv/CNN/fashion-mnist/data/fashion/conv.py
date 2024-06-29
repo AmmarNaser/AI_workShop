@@ -22,7 +22,7 @@ def convert(imgf, labelf, outf, n):
     o.close()
     l.close()
 
-output_dir = "/Users/apple/Documents/WS/ai_401/myenv/CNN/fashion-mnist/data/fashion/"
+output_dir = "/Users/apple/Documents/WS/AI_workShop/myenv/CNN/fashion-mnist/data/fashion"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
